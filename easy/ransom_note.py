@@ -15,4 +15,3 @@ class Solution(object):
         
         return True
 
-        return hs2.contains(hs1)

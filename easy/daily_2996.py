@@ -1,6 +1,5 @@
 class Solution(object):
-    def missingInteger(self, nums):
-        needed = 0
+    def missingInteger(self, nums):   
         seen = {}
         tsum = 0
 
